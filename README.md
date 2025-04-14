@@ -1,3 +1,20 @@
+# Create EU
+Create and Gregtech addon to support EU generation and motors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # GregTech Addon Template
 ## Template for GregTech Modern addons on 1.20.1
 
